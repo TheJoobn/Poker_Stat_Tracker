@@ -12,9 +12,9 @@ HAS:
 
 NEEDS:
 
-INPUT STARTING AMOUNT
+-Input starting amount for sit and go
 
-ENTER STRING OF MULTIPLE ACTIONS
+-Ability to enter a string of multiple commands or some other way to increase operation speed.
 
 
 
