@@ -2,15 +2,17 @@
 
      Poker Version 1:
 
-HAS:
+**FIXME:**
 
--Works 
+-Undo process only half works
+
+
+**OPERATIONS:**
 
 -Undo process half works
 
 
-
-NEEDS:
+**NEEDED FUNCTIONS OR IMPROVEMENTS:**
 
 -Input starting amount for sit and go
 
