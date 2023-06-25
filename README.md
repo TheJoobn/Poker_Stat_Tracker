@@ -20,11 +20,15 @@ B - Set current player as Big Blind
 
 S - Set current player as Small Blind   
 
+N - Set current player's Name
+
 M - Set current player as Yourself     
 
 V - Skip current player's turn     
 
 G - Go back to last player's turn
+
+U - Undo the last move that was made FIXME
 
 X - Eliminate current player from the game   
 
