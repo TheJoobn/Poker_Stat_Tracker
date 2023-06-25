@@ -4,7 +4,7 @@
 
 **FIXME:**
 
--Undo process only half works - needs testing, only adjusts numbers but not players removed or other major changes.
+ -Undo process only half works - needs testing, only adjusts numbers but not players removed or other major changes.
 
 
 **CURRENT OPERATIONS:**
