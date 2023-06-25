@@ -9,7 +9,7 @@
 
 **OPERATIONS:**
 
--Undo process half works
+     -Undo process half works
 
 
 **NEEDED FUNCTIONS OR IMPROVEMENTS:**
