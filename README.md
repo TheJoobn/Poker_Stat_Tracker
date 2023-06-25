@@ -1,6 +1,6 @@
 # Fun_PokerProgram
 
-     Poker Version 1:
+          Poker Version 1:
 
 **FIXME:**
 
@@ -86,7 +86,7 @@ NA
 
 
 
-     Poker Version 3:     
+          Poker Version 3:     
      
 NA
 
@@ -106,7 +106,7 @@ NA
 
 
 
-     Poker Version 4:  
+          Poker Version 4:  
      
 NA
 
@@ -125,6 +125,6 @@ NA
 
 
 
-     Poker Version 5:       
+          Poker Version 5:       
 
 NA
