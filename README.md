@@ -10,27 +10,27 @@
 **CURRENT OPERATIONS:**
 
 
-C - Call                     
+- C - Call                     
 
-R - Raise                     
+- R - Raise                     
 
-F - Fold                       
+- F - Fold                       
 
-B - Set current player as Big Blind     
+- B - Set current player as Big Blind     
 
-S - Set current player as Small Blind   
+- S - Set current player as Small Blind   
 
-N - Set current player's Name
+- N - Set current player's Name
 
-M - Set current player as Yourself     
+- M - Set current player as Yourself     
 
-V - Skip current player's turn     
+- V - Skip current player's turn     
 
-G - Go back to last player's turn
+- G - Go back to last player's turn
 
-U - Undo the last move that was made FIXME
+- U - Undo the last move that was made FIXME
 
-X - Eliminate current player from the game   
+- X - Eliminate current player from the game   
 
 
 
@@ -38,9 +38,9 @@ X - Eliminate current player from the game
 
 **NEEDED FUNCTIONS OR IMPROVEMENTS:**
 
--Input starting amount for sit and go
+- Input starting amount for sit and go
 
--Ability to enter a string of multiple commands or some other way to increase operation speed.
+- Ability to enter a string of multiple commands or some other way to increase operation speed.
 
 
 
