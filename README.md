@@ -4,12 +4,32 @@
 
 **FIXME:**
 
--Undo process only half works
+-Undo process only half works - needs testing, only adjusts numbers but not players removed or other major changes.
 
 
-**OPERATIONS:**
+**CURRENT OPERATIONS:**
 
-     -Undo process half works
+
+C - Call                     
+
+R - Raise                     
+
+F - Fold                       
+
+B - Set current player as Big Blind     
+
+S - Set current player as Small Blind   
+
+M - Set current player as Yourself     
+
+V - Skip current player's turn     
+
+G - Go back to last player's turn
+
+X - Eliminate current player from the game   
+
+
+
 
 
 **NEEDED FUNCTIONS OR IMPROVEMENTS:**
