@@ -4,6 +4,7 @@
  - Undo process only half works - needs testing, only adjusts numbers but not players removed or other major changes.
  - first hand starts at sb
  - order possibly gets messed up after a hand or so
+ - need to figure out sb and bb pricing, personal BB, and other calculations
 
 ---------------------------------------------
           NEEDED IMPROVEMENTS:
