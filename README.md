@@ -53,9 +53,7 @@
 - X - Eliminate current player from the game
 
 ---------------------------------------------
-             Poker Version 2:  6/25/23 -
-- E - if first character is e, all action characters following will be applied to current player         
-- A - Lets user enter a number to be converted to milllions, is set as all users starting chip amount.   
+             Poker Version 2:  6/27/23
 
 - I setup the D key with a "enter" hotkey through software.
 - If more than one action character is entered at a time, they will be split and applied to each player in order.
