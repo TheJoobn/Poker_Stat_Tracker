@@ -18,7 +18,6 @@ U - Undo the last move that was made FIXME<-----------------------
 X - Eliminate current player from the game
 E - if first character is e, all action characters following will be applied to current player
 A - Lets user enter a number to be converted to milllions, is set as all users starting chip amount.
-E - if first character is e, all action characters following will be applied to current player
     */
 //---------------------------------------------------------------------------------------------------------------------------------------
 //---------------------------------------------------------------------------------------------------------------------------------------
