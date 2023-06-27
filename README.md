@@ -1,20 +1,12 @@
 # Fun Poker Program 
 ---------------------------------------------
           FIXME:
- - Undo process only half works - needs testing, only adjusts numbers but not players removed or other major changes.
- - first hand starts at sb
- - order possibly gets messed up after a hand or so
- - need to figure out sb and bb pricing, personal BB, and other calculations
+- need to implement working "U" Undo function
 
 ---------------------------------------------
           NEEDED IMPROVEMENTS:
-- XXX Input starting amount for sit and go 
-- XXX Ability to enter a string of multiple commands or some other way to increase operation speed.
-- XXX input one or two digit number such as 5, 10, or 40 and convert it to millions
-- add chips calculations? not sure if useful yet.
+- add chips calculations? not sure if useful yet. - some done - not useable yet
 - after so many hands, single out users with very high play percentages in a category and indicate player type
-- add function to reset table or add people to table.
-- input what position user is along with position of BB
 
 ---------------------------------------------
           FUTURE IMPROVMENT IDEAS:
@@ -47,14 +39,14 @@
 - N - Set current player's Name
 - M - Set current player as Yourself
   
-- V - Skip current player's turn    FIXME<----------------------- 
-- G - Go back to last player's turn          FIXME<-----------------------
+- V - Skip current player's turn    
+- G - Go back to last player's turn          
   
 - U - Undo the last move that was made           FIXME<-----------------------
 - X - Eliminate current player from the game
 
 ---------------------------------------------
-             Poker Version 2:  6/27/23
+             Poker Version 2-3:  6/27/23
 
 - I setup the D key with a "enter" hotkey through software.
 - If more than one action character is entered at a time, they will be split and applied to each player in order.
@@ -64,11 +56,15 @@
 
 - "-" Ends the game.
 - "=" Starts the game again.
+
+
 ---------------------------------------------
 
+- Q - Quits the program
+- E - if first character is e, all action characters following will be applied to current player
+- W - adds a score to wins
 
-
-
+---------------------------------------------
 
 
 
