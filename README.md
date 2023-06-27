@@ -16,7 +16,7 @@
 - input what position user is along with position of BB
 
 ---------------------------------------------
-          FUTURE IMPROVEME IDEAS:
+          FUTURE IMPROVMENT IDEAS:
 - add input for hand combinations along with suggestions based on my playstyle graph and a compilation of pro graphs.
 - Could track playstyle and give suggestions.
 - Give suggestions based on the playstyles of others at the table.
