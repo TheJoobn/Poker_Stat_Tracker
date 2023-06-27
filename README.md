@@ -1,16 +1,26 @@
 # Fun_PokerProgram
 
+
+
+
+---------------------------------------------
+
+          Poker Version:     
+     
+NA
+
+
+
+---------------------------------------------
+
           Poker Version 1: 6/25/23
 
 **FIXME:**
-
  - Undo process only half works - needs testing, only adjusts numbers but not players removed or other major changes.
  - first hand starts at sb
  - order possibly gets messed up after a hand or so
 
 **CURRENT Functions:**
-
-
 - C - Call                     
 - R - Raise                     
 - F - Fold                       
@@ -23,10 +33,6 @@
 - U - Undo the last move that was made FIXME
 - X - Eliminate current player from the game   
 
-
-
-
-
 **NEEDED FUNCTIONS OR IMPROVEMENTS:**
 - Input starting amount for sit and go
 - Ability to enter a string of multiple commands or some other way to increase operation speed.
@@ -35,7 +41,6 @@
 - after so many hands, single out users with very high play percentages in a category and indicate player type
 - add function to reset table or add people to table.
 - input what position user is along with position of BB
-
 
 **FUTURE IMPROVEMENTS:**
 - add input for hand combinations along with suggestions based on my playstyle graph and a compilation of pro graphs.
